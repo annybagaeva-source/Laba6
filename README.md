@@ -7,7 +7,7 @@
 1.Приготовления 
     Сделала копию репозитория в личное хранилище(рис.1)
           
-          <img width="1280" height="264" alt="изображение" src="https://github.com/user-attachments/assets/9a0ec290-703e-4279-99e6-3c6ca0675aae" />
+<img width="1280" height="264" alt="изображение" src="https://github.com/user-attachments/assets/da6c1d91-d16c-4166-bc18-cc6d835ec502" />
 
                                                                                         
                                                       рисунок 1 - форк
